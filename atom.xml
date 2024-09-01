@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>新 未 來</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-09-01T12:03:48.949Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Neo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新音乐 —— William Joseph</title>
+    <link href="http://example.com/2024/09/01/Joseph/"/>
+    <id>http://example.com/2024/09/01/Joseph/</id>
+    <published>2024-09-01T12:02:03.000Z</published>
+    <updated>2024-09-01T12:03:48.949Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新音乐</summary>
+    
+    
+    
+    
+    <category term="新音乐" scheme="http://example.com/tags/%E6%96%B0%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新视野 —— 何光沪：如何发挥宗教的正能量？</title>
+    <link href="http://example.com/2024/09/01/%E4%BD%95%E5%85%89%E6%B2%AA%EF%BC%9A%E5%A6%82%E4%BD%95%E5%8F%91%E6%8C%A5%E5%AE%97%E6%95%99%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9F/"/>
+    <id>http://example.com/2024/09/01/%E4%BD%95%E5%85%89%E6%B2%AA%EF%BC%9A%E5%A6%82%E4%BD%95%E5%8F%91%E6%8C%A5%E5%AE%97%E6%95%99%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%9F/</id>
+    <published>2024-09-01T11:58:33.000Z</published>
+    <updated>2024-09-01T12:00:50.421Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新视野</summary>
+    
+    
+    
+    
+    <category term="新视野" scheme="http://example.com/tags/%E6%96%B0%E8%A7%86%E9%87%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新翻译 —— 穆旦译托马斯·艾略特《荒原》</title>
+    <link href="http://example.com/2024/09/01/%E7%A9%86%E6%97%A6%E8%AF%91%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E8%89%BE%E7%95%A5%E7%89%B9%E3%80%8A%E8%8D%92%E5%8E%9F%E3%80%8B/"/>
+    <id>http://example.com/2024/09/01/%E7%A9%86%E6%97%A6%E8%AF%91%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E8%89%BE%E7%95%A5%E7%89%B9%E3%80%8A%E8%8D%92%E5%8E%9F%E3%80%8B/</id>
+    <published>2024-09-01T11:55:05.000Z</published>
+    <updated>2024-09-01T11:58:10.879Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新翻译</summary>
+    
+    
+    
+    
+    <category term="新翻译" scheme="http://example.com/tags/%E6%96%B0%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新批评 —— 唐晓渡：内在于现代诗的公共性</title>
+    <link href="http://example.com/2024/09/01/%E5%94%90%E6%99%93%E6%B8%A1%EF%BC%9A%E5%86%85%E5%9C%A8%E4%BA%8E%E7%8E%B0%E4%BB%A3%E8%AF%97%E7%9A%84%E5%85%AC%E5%85%B1%E6%80%A7/"/>
+    <id>http://example.com/2024/09/01/%E5%94%90%E6%99%93%E6%B8%A1%EF%BC%9A%E5%86%85%E5%9C%A8%E4%BA%8E%E7%8E%B0%E4%BB%A3%E8%AF%97%E7%9A%84%E5%85%AC%E5%85%B1%E6%80%A7/</id>
+    <published>2024-09-01T11:51:22.000Z</published>
+    <updated>2024-09-01T11:54:38.003Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新批评</summary>
+    
+    
+    
+    
+    <category term="新批评" scheme="http://example.com/tags/%E6%96%B0%E6%89%B9%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新诗歌 —— 晏榕《汉字》《东风破》（五）</title>
+    <link href="http://example.com/2024/09/01/%E6%96%B0%E8%AF%97%E7%BB%8F5/"/>
+    <id>http://example.com/2024/09/01/%E6%96%B0%E8%AF%97%E7%BB%8F5/</id>
+    <published>2024-09-01T11:48:27.000Z</published>
+    <updated>2024-09-01T11:50:47.098Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新诗歌</summary>
+    
+    
+    
+    
+    <category term="新诗歌" scheme="http://example.com/tags/%E6%96%B0%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新音乐 —— 阿拉·普加乔娃 Алла Пугачева</title>
+    <link href="http://example.com/2024/09/01/%E6%96%B0%E9%9F%B3%E4%B9%90/"/>
+    <id>http://example.com/2024/09/01/%E6%96%B0%E9%9F%B3%E4%B9%90/</id>
+    <published>2024-09-01T11:43:17.000Z</published>
+    <updated>2024-09-01T11:47:19.232Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新音乐</summary>
+    
+    
+    
+    
+    <category term="新音乐" scheme="http://example.com/tags/%E6%96%B0%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每周重磅 —— 杨炼 诗两首</title>
+    <link href="http://example.com/2024/09/01/%E7%AC%AC10%E6%9C%9F-1/"/>
+    <id>http://example.com/2024/09/01/%E7%AC%AC10%E6%9C%9F-1/</id>
+    <published>2024-09-01T11:40:09.000Z</published>
+    <updated>2024-09-01T11:42:22.552Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#每周重磅</summary>
+    
+    
+    
+    
+    <category term="每周重磅" scheme="http://example.com/tags/%E6%AF%8F%E5%91%A8%E9%87%8D%E7%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新视野 —— 木心是谁？</title>
+    <link href="http://example.com/2024/09/01/post-1/"/>
+    <id>http://example.com/2024/09/01/post-1/</id>
+    <published>2024-09-01T11:37:33.000Z</published>
+    <updated>2024-09-01T11:39:37.945Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新视野</summary>
+    
+    
+    
+    
+    <category term="新视野" scheme="http://example.com/tags/%E6%96%B0%E8%A7%86%E9%87%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新翻译 —— 马永波译阿什贝利诗两首《神话诗人》、《诗》</title>
+    <link href="http://example.com/2024/09/01/post/"/>
+    <id>http://example.com/2024/09/01/post/</id>
+    <published>2024-09-01T11:33:36.000Z</published>
+    <updated>2024-09-01T11:36:46.185Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新翻译</summary>
+    
+    
+    
+    
+    <category term="新翻译" scheme="http://example.com/tags/%E6%96%B0%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新批评 —— 陈超：贫乏中的自我自我再剥夺 —— 先锋“流行诗”中的反文化、反道德问题</title>
+    <link href="http://example.com/2024/09/01/%E9%99%88%E8%B6%85%EF%BC%9A%E8%B4%AB%E4%B9%8F%E4%B8%AD%E7%9A%84%E8%87%AA%E6%88%91%E8%87%AA%E6%88%91%E5%86%8D%E5%89%A5%E5%A4%BA%E2%80%A6%E2%80%A6/"/>
+    <id>http://example.com/2024/09/01/%E9%99%88%E8%B6%85%EF%BC%9A%E8%B4%AB%E4%B9%8F%E4%B8%AD%E7%9A%84%E8%87%AA%E6%88%91%E8%87%AA%E6%88%91%E5%86%8D%E5%89%A5%E5%A4%BA%E2%80%A6%E2%80%A6/</id>
+    <published>2024-09-01T11:29:57.000Z</published>
+    <updated>2024-09-01T11:33:11.848Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新批评</summary>
+    
+    
+    
+    
+    <category term="新批评" scheme="http://example.com/tags/%E6%96%B0%E6%89%B9%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新诗歌 —— 晏榕《汉字》《东风破》（四）</title>
+    <link href="http://example.com/2024/09/01/%E6%99%8F%E6%A6%95%EF%BC%9A%E3%80%8A%E6%B1%89%E5%AD%97%E3%80%8B%E3%80%8A%E4%B8%9C%E9%A3%8E%E7%A0%B4%E3%80%8B/"/>
+    <id>http://example.com/2024/09/01/%E6%99%8F%E6%A6%95%EF%BC%9A%E3%80%8A%E6%B1%89%E5%AD%97%E3%80%8B%E3%80%8A%E4%B8%9C%E9%A3%8E%E7%A0%B4%E3%80%8B/</id>
+    <published>2024-09-01T11:27:04.000Z</published>
+    <updated>2024-09-01T12:15:35.842Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新诗歌</summary>
+    
+    
+    
+    
+    <category term="新诗歌" scheme="http://example.com/tags/%E6%96%B0%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新音乐 —— Gérard Darmon</title>
+    <link href="http://example.com/2024/09/01/%E7%AC%AC11%E6%9C%9F/"/>
+    <id>http://example.com/2024/09/01/%E7%AC%AC11%E6%9C%9F/</id>
+    <published>2024-09-01T11:24:31.000Z</published>
+    <updated>2024-09-01T11:26:35.981Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新音乐</summary>
+    
+    
+    
+    
+    <category term="新音乐" scheme="http://example.com/tags/%E6%96%B0%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每期重磅 —— 艾米 · 洛威尔</title>
+    <link href="http://example.com/2024/09/01/%E7%AC%AC10%E6%9C%9F/"/>
+    <id>http://example.com/2024/09/01/%E7%AC%AC10%E6%9C%9F/</id>
+    <published>2024-09-01T11:19:39.000Z</published>
+    <updated>2024-09-01T11:23:45.532Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#每期重磅</summary>
+    
+    
+    
+    
+    <category term="每期重磅" scheme="http://example.com/tags/%E6%AF%8F%E6%9C%9F%E9%87%8D%E7%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新诗歌 —— 晏榕 ——《汉字》《东风破》（六）</title>
+    <link href="http://example.com/2024/09/01/%E7%AC%AC5%E6%9C%9F/"/>
+    <id>http://example.com/2024/09/01/%E7%AC%AC5%E6%9C%9F/</id>
+    <published>2024-09-01T11:16:32.000Z</published>
+    <updated>2024-09-01T12:13:44.131Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新诗歌</summary>
+    
+    
+    
+    
+    <category term="新诗歌" scheme="http://example.com/tags/%E6%96%B0%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新翻译 —— 周伟驰译沃伦诗两首《树叶》、《真爱》</title>
+    <link href="http://example.com/2024/09/01/%E7%AC%AC7%E6%9C%9F/"/>
+    <id>http://example.com/2024/09/01/%E7%AC%AC7%E6%9C%9F/</id>
+    <published>2024-09-01T11:11:57.000Z</published>
+    <updated>2024-09-01T11:15:52.371Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新翻译</summary>
+    
+    
+    
+    
+    <category term="新翻译" scheme="http://example.com/tags/%E6%96%B0%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新诗经 —— 晏榕  《汉字》《东风破》(三)</title>
+    <link href="http://example.com/2024/09/01/%E6%99%8F%E6%A6%95/"/>
+    <id>http://example.com/2024/09/01/%E6%99%8F%E6%A6%95/</id>
+    <published>2024-09-01T11:08:42.000Z</published>
+    <updated>2024-09-01T12:12:31.931Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新诗歌</summary>
+    
+    
+    
+    
+    <category term="新诗歌" scheme="http://example.com/tags/%E6%96%B0%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新批评 —— 耿占春 | 一场诗学与社会学的内心争论</title>
+    <link href="http://example.com/2024/09/01/%E8%80%BF%E5%8D%A0%E6%98%A5/"/>
+    <id>http://example.com/2024/09/01/%E8%80%BF%E5%8D%A0%E6%98%A5/</id>
+    <published>2024-09-01T11:04:32.000Z</published>
+    <updated>2024-09-01T11:08:02.245Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新批评</summary>
+    
+    
+    
+    
+    <category term="新批评" scheme="http://example.com/tags/%E6%96%B0%E6%89%B9%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新翻译 —— 黄云特 译《比萨诗章》</title>
+    <link href="http://example.com/2024/09/01/%E8%AF%91%E3%80%8A%E6%AF%94%E8%90%A8%E8%AF%97%E7%AB%A0%E3%80%8B/"/>
+    <id>http://example.com/2024/09/01/%E8%AF%91%E3%80%8A%E6%AF%94%E8%90%A8%E8%AF%97%E7%AB%A0%E3%80%8B/</id>
+    <published>2024-09-01T11:01:29.000Z</published>
+    <updated>2024-09-01T11:04:13.549Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新翻译</summary>
+    
+    
+    
+    
+    <category term="新翻译" scheme="http://example.com/tags/%E6%96%B0%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新话语 —— 口述 | 汤一介：自由的思想最重要</title>
+    <link href="http://example.com/2024/09/01/%E5%8F%A3%E8%BF%B0/"/>
+    <id>http://example.com/2024/09/01/%E5%8F%A3%E8%BF%B0/</id>
+    <published>2024-09-01T10:56:25.000Z</published>
+    <updated>2024-09-01T11:00:43.817Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新话语</summary>
+    
+    
+    
+    
+    <category term="新话语" scheme="http://example.com/tags/%E6%96%B0%E8%AF%9D%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新视野 —— 朱叶青 —— 中国美院：副教授，作为一个标准进行学术PK</title>
+    <link href="http://example.com/2024/09/01/%E6%9C%B1%E5%8F%B6%E9%9D%92/"/>
+    <id>http://example.com/2024/09/01/%E6%9C%B1%E5%8F%B6%E9%9D%92/</id>
+    <published>2024-09-01T10:54:33.000Z</published>
+    <updated>2024-09-01T10:55:53.705Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;#新视野</summary>
+    
+    
+    
+    
+    <category term="新视野" scheme="http://example.com/tags/%E6%96%B0%E8%A7%86%E9%87%8E/"/>
+    
+  </entry>
+  
+</feed>
